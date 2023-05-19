@@ -8,9 +8,9 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Import the required libraries.
+1.Import the required libraries.
  
-2. Upload and read the dataset.
+2.Upload and read the dataset.
 
 3.Check for any null values using the isnull() function.
 
